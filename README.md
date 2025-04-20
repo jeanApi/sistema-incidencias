@@ -90,5 +90,4 @@ node server.js
 
 ## 📌 Autor
 
-Desarrollado por **Jean Carlos Betancourt Nazareno**  
-*Ingeniero en Automática Industrial | Desarrollador Fullstack*
+Desarrollado por **Jean Carlos Betancourt Nazareno** 
